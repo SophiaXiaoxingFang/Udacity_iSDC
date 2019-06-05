@@ -11,6 +11,7 @@ The projects which have been finished are:
 - Project 1 : Implement Matrix Class
 - Project 2 : Translate Python to C++
 - Project Optional : Optimize Histogram Filter
+- Project 3 : Implement Route Planner
 
 Please check out the code in the subfolders accordingly.
 
