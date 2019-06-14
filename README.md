@@ -12,6 +12,7 @@ The projects which have been finished are:
 - Project 2 : Translate Python to C++
 - Project Optional : Optimize Histogram Filter
 - Project 3 : Implement Route Planner
+- Project 4 : Traffic Light Classifier
 
 Please check out the code in the subfolders accordingly.
 
